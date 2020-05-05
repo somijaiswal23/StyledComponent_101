@@ -1,0 +1,40 @@
+.btn{
+    cursor: pointer;
+    background: transparent;
+    font-size: 16px;
+    border-radius: 3px;
+   
+    margin: 0 1em;
+    padding: 0.25em 1em;
+  }
+  
+  .btn-primary{
+    color: red;
+    border: 2px solid red;
+  }
+  .btn-primary:hover{
+    background-color: red;
+    color: white;
+  }
+  .btn-success{
+     color: green;
+      border: 2px solid green;
+  }
+  .btn-success:hover{
+    background-color: green;
+    color: white;
+  }
+  .btn-warning{
+     color: orange;
+    border: 2px solid orange;
+  }
+  .btn-warning:hover{
+    background-color: orange;
+    color: white;
+  }
+  .font30{
+    font-size:30px;
+  }
+  h1, h2, h3{
+    color:blue;
+  }
