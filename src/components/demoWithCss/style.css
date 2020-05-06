@@ -38,3 +38,7 @@
   h1, h2, h3{
     color:blue;
   }
+.heading {
+    color: black;
+    font-family: 'Courier New';
+  }
