@@ -1,3 +1,4 @@
+import React from 'react';
 import DemoWithCss from './components/demoWithCss/index';
 import DemowithStyled from './components/demoWithStyled/index';
 
@@ -12,4 +13,6 @@ function App() {
     </div>
   );
 }
+
+export default App;
 
