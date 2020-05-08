@@ -37,7 +37,7 @@ const Button = styled.button`
      color:white;
   }
 `;
-const Header = styled.h1`color: red`;
+const Header = styled.h1`color: red;`;
 
 const NewButton = styled(Button)`font-size: 30px;`;
 
